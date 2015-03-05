@@ -1,3 +1,1 @@
-puts hello
-text = gets
-puts hello,text
+my_first_name= "damerla"
